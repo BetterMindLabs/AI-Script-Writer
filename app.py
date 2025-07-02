@@ -23,7 +23,7 @@ You are a creative copywriter specializing in short-form ads and Instagram reels
 - Key selling points: {selling_points}
 - Tone: {tone}
 
-Make it engaging, easy to read aloud, and include call-to-action if possible. Keep it short and impactful.
+Make it engaging, easy to read aloud, and include call-to-action if possible. Keep it short and impactful. Give me only version of the script
 """
 
     response = model.generate_content(prompt)
